@@ -13,7 +13,7 @@ namespace ConsoleApplication4
             string c = "";
             string b = "";
 
-            for (int i = a.Length - 1; i >= 0; i--)
+            for (int i = 0; i < a.Length; i++)
             {
                 var k = a[i];
 
@@ -47,11 +47,11 @@ namespace ConsoleApplication4
                     c = "1110";
                 else if (k == 70)
                     c = "1111";
-
+                
                 b += c;
             }
             
-            int h = int.Parse(b);
+            int h = int.Parse(b); 
             Console.WriteLine(h);
 
 
