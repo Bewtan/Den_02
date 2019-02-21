@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMinMaxAver", "SumMinMaxA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biggest3", "Biggest3\Biggest3.csproj", "{05BB8824-7F77-475C-AC05-2A4F336C3F55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shorties", "Shorties\Shorties.csproj", "{E3E293CE-B815-453C-BD0F-B5852D843B29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{05BB8824-7F77-475C-AC05-2A4F336C3F55}.Debug|x86.Build.0 = Debug|x86
 		{05BB8824-7F77-475C-AC05-2A4F336C3F55}.Release|x86.ActiveCfg = Release|x86
 		{05BB8824-7F77-475C-AC05-2A4F336C3F55}.Release|x86.Build.0 = Release|x86
+		{E3E293CE-B815-453C-BD0F-B5852D843B29}.Debug|x86.ActiveCfg = Debug|x86
+		{E3E293CE-B815-453C-BD0F-B5852D843B29}.Debug|x86.Build.0 = Debug|x86
+		{E3E293CE-B815-453C-BD0F-B5852D843B29}.Release|x86.ActiveCfg = Release|x86
+		{E3E293CE-B815-453C-BD0F-B5852D843B29}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

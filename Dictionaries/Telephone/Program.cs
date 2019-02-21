@@ -27,7 +27,7 @@ namespace Telephone
                             if (dict.ContainsKey(values[a+1]))
                                 Console.WriteLine("{0}-->{1}",values[a+1],dict[values[a + 1]]);
                             else
-                                Console.WriteLine("no");
+                                Console.WriteLine("No such person.");
                     break;
                 }
             }
