@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_SecondRound", "Test_SecondRound\Test_SecondRound.csproj", "{9E03E278-4340-47C2-AAED-35BC24C1D37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessVisitors", "FitnessVisitors\FitnessVisitors.csproj", "{0B573786-E3E0-4D49-B056-60F378519FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame", "WordGame\WordGame.csproj", "{907727EE-524F-4E6A-9E05-DE78AA615E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballSeason", "FootballSeason\FootballSeason.csproj", "{A3EC3741-651F-4225-9A5F-FE8BACAA5825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E03E278-4340-47C2-AAED-35BC24C1D37E}.Debug|x86.ActiveCfg = Debug|x86
+		{9E03E278-4340-47C2-AAED-35BC24C1D37E}.Debug|x86.Build.0 = Debug|x86
+		{9E03E278-4340-47C2-AAED-35BC24C1D37E}.Release|x86.ActiveCfg = Release|x86
+		{9E03E278-4340-47C2-AAED-35BC24C1D37E}.Release|x86.Build.0 = Release|x86
+		{0B573786-E3E0-4D49-B056-60F378519FF1}.Debug|x86.ActiveCfg = Debug|x86
+		{0B573786-E3E0-4D49-B056-60F378519FF1}.Debug|x86.Build.0 = Debug|x86
+		{0B573786-E3E0-4D49-B056-60F378519FF1}.Release|x86.ActiveCfg = Release|x86
+		{0B573786-E3E0-4D49-B056-60F378519FF1}.Release|x86.Build.0 = Release|x86
+		{907727EE-524F-4E6A-9E05-DE78AA615E51}.Debug|x86.ActiveCfg = Debug|x86
+		{907727EE-524F-4E6A-9E05-DE78AA615E51}.Debug|x86.Build.0 = Debug|x86
+		{907727EE-524F-4E6A-9E05-DE78AA615E51}.Release|x86.ActiveCfg = Release|x86
+		{907727EE-524F-4E6A-9E05-DE78AA615E51}.Release|x86.Build.0 = Release|x86
+		{A3EC3741-651F-4225-9A5F-FE8BACAA5825}.Debug|x86.ActiveCfg = Debug|x86
+		{A3EC3741-651F-4225-9A5F-FE8BACAA5825}.Debug|x86.Build.0 = Debug|x86
+		{A3EC3741-651F-4225-9A5F-FE8BACAA5825}.Release|x86.ActiveCfg = Release|x86
+		{A3EC3741-651F-4225-9A5F-FE8BACAA5825}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
