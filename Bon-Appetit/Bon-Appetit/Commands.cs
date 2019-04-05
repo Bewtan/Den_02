@@ -9,24 +9,15 @@ namespace Bon_Appetit
     {
         private static Dictionary<string, Product> nameToP = new Dictionary<string, Product>();
         private static Dictionary<string, Meal> nameToM = new Dictionary<string, Meal>();
-        
-        public static Dictionary<string,Product> NameToP
+
+        public static Dictionary<string, Product> NameToP
         {
             get { return nameToP; }
-            set {
-                foreach (Product a in Product.Products)
-                    nameToP[a.Name] = a;           
-            }
         }
 
         public static Dictionary<string, Meal> NameToM
         {
             get { return nameToM; }
-            set
-            {
-                foreach (Meal a in Meal.Menu)
-                    nameToM[a.Name] = a;
-            }
         }
 
         ///////////////////////////////////////////////////////////////////////////////
@@ -57,6 +48,7 @@ namespace Bon_Appetit
             Console.WriteLine("\n{0} RECIPE",nameM);
             for (int i = 0; i < 25; i++)
                 Console.Write('-');
+            Console.WriteLine();
             foreach(Product a in nameToM[nameM].Products)
                 Console.WriteLine("{0}-{1}",a.Name,a.Weight);
             for (int i = 0; i < 25; i++)

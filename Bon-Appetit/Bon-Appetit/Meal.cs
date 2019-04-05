@@ -87,6 +87,7 @@ namespace Bon_Appetit
         {
             Meal a1 = new Meal(name,type);
             menu.Add(a1);
+            Commands.NameToM[name] = a1;
         }
 
         public static void AddMealProducts(string name, string type, int count)
@@ -103,12 +104,13 @@ namespace Bon_Appetit
             }
             Meal a2 = new Meal(name,type,a1);
             menu.Add(a2);
+            Commands.NameToM[name] = a2;
         }
 
-        /*public override string ToString(string name)
+        public override string ToString()
         {
             return this.name + "-" + this.type;
-        }*/
+        }
       
 
 

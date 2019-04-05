@@ -64,6 +64,7 @@ namespace Bon_Appetit
         {           
             Product a1 = new Product(name,price,weight);
             products.Add(a1);
+            Commands.NameToP[name] = a1;
         }
 
         public static void AddMultiProduct(int count)
@@ -74,10 +75,10 @@ namespace Bon_Appetit
                  }
         }
 
-        /*public override string  ToString(string name)
+        public override string  ToString()
         {
  	            return this.name + "-" + this.weight;
-        }*/
+        }
       
 
     }

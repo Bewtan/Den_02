@@ -56,12 +56,12 @@ namespace Bon_Appetit
                     case "Cheapest":
                         Commands.GetCheapestProduct();
                         break;
-                    /*case "PrintProduct":
-                        Console.WriteLine(Commands.NameToP[commandData[1]].ToString(commandData[1]));
+                    case "PrintProduct":
+                        Console.WriteLine(Commands.NameToP[commandData[1]].ToString());
                         break;
                     case "PrintMeal":
-                        Console.WriteLine(Commands.NameToM[commandData[1]].ToString(commandData[1]));
-                        break;*/
+                        Console.WriteLine(Commands.NameToM[commandData[1]].ToString());
+                        break;
                 }
 
 
