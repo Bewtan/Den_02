@@ -1,0 +1,6 @@
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\Halfiwe\bin\Debug\Halfiwe.exe.config
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\Halfiwe\bin\Debug\Halfiwe.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\Halfiwe\bin\Debug\Halfiwe.pdb
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\Halfiwe\obj\Debug\Halfiwe.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\Halfiwe\obj\Debug\Halfiwe.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\Halfiwe\obj\Debug\Halfiwe.pdb

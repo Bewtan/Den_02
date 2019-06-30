@@ -1,0 +1,7 @@
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\bin\Debug\CrossRun.exe.config
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\bin\Debug\CrossRun.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\bin\Debug\CrossRun.pdb
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\obj\Debug\CrossRun.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\obj\Debug\CrossRun.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\obj\Debug\CrossRun.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\CrossRun\obj\Debug\CrossRun.pdb

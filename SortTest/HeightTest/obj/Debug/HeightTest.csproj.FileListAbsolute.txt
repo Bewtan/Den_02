@@ -1,0 +1,7 @@
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\bin\Debug\HeightTest.exe.config
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\bin\Debug\HeightTest.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\bin\Debug\HeightTest.pdb
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\obj\Debug\HeightTest.csprojAssemblyReference.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\obj\Debug\HeightTest.csproj.CoreCompileInputs.cache
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\obj\Debug\HeightTest.exe
+C:\Users\Student KK1\Desktop\IT_Kariera\SortTest\HeightTest\obj\Debug\HeightTest.pdb
